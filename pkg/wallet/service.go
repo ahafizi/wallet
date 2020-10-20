@@ -9,7 +9,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/gholib/wallet/pkg/types"
+	"github.com/ahafizi/wallet/pkg/types"
 	"github.com/google/uuid"
 )
 

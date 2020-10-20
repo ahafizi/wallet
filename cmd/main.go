@@ -3,7 +3,7 @@ package main
 import (
 	"log"
 
-	"github.com/gholib/wallet/pkg/wallet"
+	"github.com/ahafizi/wallet/pkg/wallet"
 )
 
 func main() {

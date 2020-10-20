@@ -1,4 +1,4 @@
-module github.com/gholib/wallet
+module github.com/ahafizi/wallet
 
 go 1.15
 
