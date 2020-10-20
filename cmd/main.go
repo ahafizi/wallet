@@ -4,6 +4,7 @@ import (
 	"fmt"
 	"log"
 
+	"github.com/ahafizi/wallet/pkg/types"
 	"github.com/ahafizi/wallet/pkg/wallet"
 )
 
