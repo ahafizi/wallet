@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/gholib/wallet/pkg/types"
-	"github.com/gholib/wallet/pkg/wallet"
+	"github.com/ahafizi/wallet/pkg/types"
+	"github.com/ahafizi/wallet/pkg/wallet"
 )
 
 type testService struct {
